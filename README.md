@@ -1,28 +1,25 @@
 
 # Star map
 
-This program is an attempt to reproduce visual mood (?) of (?)
-from ...
-on what can be found at [atunivers.free.fr](http://atunivers.free.fr/)
+This program is an attempt to reproduce the visual look of illustrations that can be found on [atunivers.free.fr](http://atunivers.free.fr/), while being interactive.
 
 ## Build instructions
 
-On linux:
+On linux, you only have to `make` then execute with `./main`.
 
-    make
-    ./main
-
-You will need the following libraries installed:
+In order to compile, you will need the following libraries installed:
 
 * SDL
 * SDL_ttf
+* OpenGL
 
-## How to use
+## Commands
 
-* mouse: rotate map
-* mouse wheel: zoom
-* esc: quit
+* Mouse to rotate
+* Mouse wheel to zoom
+* Esc to quit
 
 ## Screenshots
 
-![](examples/closest_stars.png "titre")
+![](http://raw.githubusercontent.com/rqndom/starmap/master/examples/closest_stars.png)
+![](http://raw.githubusercontent.com/rqndom/starmap/master/examples/brightest_stars.png)
