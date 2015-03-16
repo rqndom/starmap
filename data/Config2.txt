@@ -1,0 +1,30 @@
+Liste2.txt
+300
+31
+18
+62
+6
+68
+6
+114
+5
+88
+6
+75
+14
+
+
+
+Donnees :
+
+Fichier
+NombreEtoiles
+
+Nom (Pos, Taille)
+
+Longitude (Pos, Taille)
+Latitude (Pos, Taille)
+Distance (Pos, Taille)
+
+Magnitude (Pos, Taille)
+Type Spectral (Pos, Taille)
