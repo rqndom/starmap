@@ -21,5 +21,8 @@ In order to compile, you will need the following libraries installed:
 
 ## Screenshots
 
-![](http://raw.githubusercontent.com/rqndom/starmap/master/examples/closest_stars.png)
-![](http://raw.githubusercontent.com/rqndom/starmap/master/examples/brightest_stars.png)
+Closest stars
+![](examples/closest_stars.png)
+
+Brightest stars
+![](brightest_stars.png)
