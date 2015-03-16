@@ -7,7 +7,7 @@ This program is an attempt to reproduce the visual look of illustrations that ca
 
 On linux, you only have to `make` then execute with `./main`.
 
-In order to compile, you will need the following libraries installed:
+In order to compile, you will need the following libraries being installed:
 
 * SDL
 * SDL_ttf
@@ -25,4 +25,4 @@ Closest stars
 ![](examples/closest_stars.png)
 
 Brightest stars
-![](brightest_stars.png)
+![](examples/brightest_stars.png)
